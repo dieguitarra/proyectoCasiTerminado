@@ -1,0 +1,9 @@
+.navbar {
+  @include tablet {
+  }
+}
+
+.navbar {
+  @include movil {
+  }
+}
